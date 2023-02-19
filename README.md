@@ -1,0 +1,1 @@
+# itahari-model-school

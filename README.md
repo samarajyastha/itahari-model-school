@@ -1,1 +1,1 @@
-# itahari-model-school
+# Layout of Itahari Model School
